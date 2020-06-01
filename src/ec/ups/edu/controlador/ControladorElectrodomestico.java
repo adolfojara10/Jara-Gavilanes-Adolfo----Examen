@@ -39,7 +39,7 @@ public class ControladorElectrodomestico {
 
     public void registrarLavadora() {
         lava = vista.ingresarLavadora();
-        //System.out.println(lava);
+        System.out.println(lava);
         dao.crearLavadora(lava);
     }
 

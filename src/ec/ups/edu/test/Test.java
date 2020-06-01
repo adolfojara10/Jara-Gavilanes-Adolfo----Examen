@@ -35,7 +35,7 @@ public class Test {
       
         controlador.registrarLavadora();
         controlador.registrarLavadora();
-        //controlador.registrarLavadora();
+        controlador.registrarLavadora();
         
         controlador.verTelevisiones();
         

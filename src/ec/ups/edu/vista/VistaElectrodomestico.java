@@ -64,7 +64,7 @@ public class VistaElectrodomestico {
         }
         television.setPuertoHDMI(puerto);
         
-        //System.out.println(television.toString());
+        System.out.println(television.toString());
         return television;
     }
     
